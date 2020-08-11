@@ -2,13 +2,13 @@
   {
     "name": "app1",
     "hash": "92eac318",
-    "bundle-name": "app.92eac318.zip",
+    "bundleName": "app.92eac318.zip",
     "entry": "./index.html"
   },
   {
     "name": "app2",
     "hash": "12345678",
-    "bundle-name": "app.12345678.zip",
+    "bundleName": "app.12345678.zip",
     "entry": "./index.html"
   }
 ]
