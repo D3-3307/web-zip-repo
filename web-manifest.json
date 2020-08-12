@@ -19,8 +19,8 @@
   },
   {
     "name": "app3",
-    "hash": "987654321",
-    "bundleName": "app.987654321.zip",
+    "hash": "5647348",
+    "bundleName": "app.5647348.zip",
     "entry": "./index.html",
     "host": "https://react-web-app.vercel.app"
   }
