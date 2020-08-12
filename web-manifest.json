@@ -10,5 +10,11 @@
     "hash": "12345678",
     "bundleName": "app.12345678.zip",
     "entry": "./index.html"
+  },
+  {
+    "name": "request test",
+    "hash": "34ccf041",
+    "bundleName": "app.34ccf041.zip",
+    "entry": "index.html"
   }
 ]
