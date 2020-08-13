@@ -23,5 +23,12 @@
     "bundleName": "app.5647348.zip",
     "entry": "./index.html",
     "host": "https://react-web-app.vercel.app"
+  },
+  {
+    "name": "app4",
+    "hash": "111bbb",
+    "bundleName": "app.111bbb.zip",
+    "entry": "./index.html",
+    "host": "https://react-web-app.vercel.app"
   }
 ]
