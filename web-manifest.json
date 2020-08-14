@@ -15,7 +15,8 @@
     "name": "request test",
     "hash": "34ccf041",
     "bundleName": "app.34ccf041.zip",
-    "entry": "index.html"
+    "entry": "index.html",
+    "host": "http://localhost:8080/requesttest"
   },
   {
     "name": "app3",
